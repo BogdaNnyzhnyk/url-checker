@@ -1,0 +1,16 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.idea
+.env
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+# phpstorm project files
+.idea
+.htaccess
+.phpstorm.meta.php
