@@ -34,13 +34,13 @@
 
                     :key="index">
                     <td>
-                        {{url.url}}
+                        {{url.status}}
                     </td>
                     <td>
                         {{url.title}}
                     </td>
                     <td>
-                        {{url.status}}
+                        {{url.url}}
                     </td>
                 </tr>
             </tbody>
